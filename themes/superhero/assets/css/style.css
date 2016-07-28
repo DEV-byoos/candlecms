@@ -1,0 +1,27 @@
+.table-striped>tbody>tr:nth-child(odd)>td, .table-striped>tbody>tr:nth-child(odd)>th {
+    background-color: #4e5d6c;
+}
+textarea, .chzn-drop{
+    color:black;
+}
+.not_shown{
+    display: none;
+}
+
+.clear{
+    clear: both;
+}
+
+.layout_widget_container input, .layout_widget_container textarea {
+    max-width: 100%;
+}
+
+footer{
+    padding: 10px;
+}
+
+#__section-content{
+    overflow-x: auto;
+    overflow-y: hidden;
+    padding-bottom: 30px;
+}

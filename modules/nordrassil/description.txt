@@ -1,0 +1,10 @@
+{
+    "dependencies"    : [],
+    "name"            : "gofrendi.noCMS.nordrassil",
+    "description"     : "Nordrassil (Module Generator)",
+    "version"         : "0.0.4",
+    "activate"        : "info/activate",
+    "deactivate"      : "info/deactivate",
+    "upgrade"         : "info/upgrade",
+    "public"          : false
+}
